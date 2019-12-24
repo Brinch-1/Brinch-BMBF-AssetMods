@@ -21,4 +21,4 @@ If you're requested model is only for you, and I can't upload it to #quest-model
 
 I accept payment through Paypal.
 
-<img width="471" alt="GithubPhoto" src="https://user-images.githubusercontent.com/59196987/71414186-0ae45300-2656-11ea-9011-ce4fb55309e7.png">
+<img width="700" alt="GithubPhoto" src="https://user-images.githubusercontent.com/59196987/71414186-0ae45300-2656-11ea-9011-ce4fb55309e7.png">
