@@ -1,5 +1,5 @@
-# BMBFmodels
-Welcome to BMBFmodels! Here's all my models (mods that changes the visuals in Beat Saber) I've made for Beat Saber for the Oculus Quest.
+# BMBF models
+Welcome to BMBF models! Here's all my models (mods that changes the visuals in Beat Saber) I've made for Beat Saber for the Oculus Quest.
 To get it into Beat Saber, simply download a .zip file and upload it to BMBF. Everything is updated to Beat Saber 1.6.0.
 
 ## Commissions:
