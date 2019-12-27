@@ -7,15 +7,15 @@ Do you want your own custom Beat Saber model? Just DM me on Discord, and tell me
 
 ### Prices:
 
-### Saber - $3 (£2.7)
+### Saber - $3
 
-### Note Cube - $2 (£1.5)
+### Note Cube - $2
 
-### Menu Title - $2 (£1.5)
+### Menu Title - $2
 
-### Menu Title (Only text) - $1 (£0.7)
+### Menu Title (Only text) - $1
 
-### Trail - $1 (£0.7)
+### Trail - $1
 
 If you're requested model is only for you, and I can't upload it to #quest-models on BSMG's Discord server or this repository, $1 will be added to the price.
 
