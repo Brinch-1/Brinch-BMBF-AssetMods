@@ -11,6 +11,8 @@ Do you want your own custom Beat Saber model? Just DM me on Discord, and tell me
 
 ### Note Cube - $3
 
+### Sound Mod - $3
+
 ### Menu Title - $3
 
 ### Menu Title (Only text) - $1
