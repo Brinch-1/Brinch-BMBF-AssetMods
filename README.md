@@ -1,6 +1,6 @@
 # BMBF models
 Welcome to BMBF models! Here's all my models (mods that changes the visuals in Beat Saber) I've made for Beat Saber for the Oculus Quest.
-To get it into Beat Saber, simply download a .zip file and upload it to BMBF on your PC. Or find this repository inside your headset through BMBF and press "download". Everything is updated to Beat Saber 1.6.0 (OUTDATED).
+To get it into Beat Saber, simply download a .zip file and upload it to BMBF on your PC. You can also find this repository inside your headset through BMBF and press "download". Everything is updated to Beat Saber 1.6.0 (OUTDATED).
 
 ## Commissions:
 Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, and tell me what you want: Brinch#1410.
