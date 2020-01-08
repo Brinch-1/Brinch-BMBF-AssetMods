@@ -3,7 +3,7 @@ Welcome to BMBF models! Here's all my models (mods that changes the visuals in B
 To get it into Beat Saber, simply download a .zip file and upload it to BMBF. Everything is updated to Beat Saber 1.6.0 (OUTDATED).
 
 ## Commissions:
-Do you want your own custom Beat Saber model? Just DM me on Discord, and tell me what you want: Brinch#1410.
+Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, and tell me what you want: Brinch#1410.
 
 ### Prices:
 
