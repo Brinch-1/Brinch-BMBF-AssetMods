@@ -6,17 +6,17 @@ Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, a
 
 ### Prices:
 
-### Saber - $4
+### Saber - $5
 
-### Note Cube - $3
+### Note Cube - $4
 
-### Sound Mod - $3
+### Sound Mod - $4
 
-### Menu Title - $3
+### Menu Title - $4
 
-### Menu Title (Only text) - $1
+### Menu Title (Only text) - $2
 
-### Trail - $1
+### Trail - $2
 
 If you're requested model is only for you, and I can't upload it to #quest-models on BSMG's Discord server or this repository, $1 will be added to the price.
 
