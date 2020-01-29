@@ -12,7 +12,7 @@ Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, a
 
 ### Sound Mod - $4
 
-### Menu Title - $4
+### Menu Title - $3
 
 ### Menu Title (Only text) - $2
 
