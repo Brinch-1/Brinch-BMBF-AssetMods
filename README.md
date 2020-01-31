@@ -31,4 +31,4 @@ I can send your 3D modeled saber into Beat Saber for $3. There's just some requi
 
 2. Separate your model in 3 different .obj's: One for the "Blade", one for the "Handle" and one for the "GlowingEdges".
 
-![SaberGuide](https://user-images.githubusercontent.com/59196987/72167374-51161200-33cb-11ea-9ffc-39241004077e.png)
+![SaberGuide](https://user-images.githubusercontent.com/59196987/73519582-c476d680-4401-11ea-9cc8-a2c9bae6f2c5.png)
