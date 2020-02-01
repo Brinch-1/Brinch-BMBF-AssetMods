@@ -18,8 +18,6 @@ Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, a
 
 ### Trail - $2
 
-If you're requested model is only for you, and I can't upload it to #quest-models on BSMG's Discord server or this repository, $1 will be added to the price.
-
 I accept payment through Paypal.
 
 <img width="700" alt="GithubPhoto2" src="https://user-images.githubusercontent.com/59196987/71414313-a8d81d80-2656-11ea-9940-403b19f4f7c6.png">
