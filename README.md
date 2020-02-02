@@ -4,23 +4,7 @@ Welcome to BMBF models! Here's all my models (mods that changes the visuals in B
 ## Commissions:
 Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, and tell me what you want: -Mathias-#1410.
 ![Commissions](https://user-images.githubusercontent.com/59196987/73605457-caee8500-459e-11ea-99ae-73a10128af92.png)
-### Prices:
 
-### Saber - $5
-
-### Note Cube - $4
-
-### Sound Mod - $4
-
-### Menu Title - $3
-
-### Menu Title (Only text) - $2
-
-### Trail - $2
-
-I accept payment through Paypal.
-
-<img width="700" alt="GithubPhoto2" src="https://user-images.githubusercontent.com/59196987/71414313-a8d81d80-2656-11ea-9940-403b19f4f7c6.png">
 
 ### Have you modeled a saber yourself that you want to be in Beat Saber?
 I can send your 3D modeled saber into Beat Saber for $3. There's just some requirements:
