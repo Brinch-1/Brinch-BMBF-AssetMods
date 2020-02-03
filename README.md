@@ -1,11 +1,10 @@
 # BMBF models
-Welcome to BMBF models! Here's all my models (mods that changes the visuals in Beat Saber) I've made for Beat Saber for the Oculus Quest. To get it into Beat Saber, simply download a .zip file and upload it to BMBF on your PC. You can also find this repository inside your headset through BMBF and press "Download". Everything is updated to Beat Saber v1.6.0. If you're on 1.6.1 or higher, go to the folder "[Mods for v. 1.6.1+ users!]". If you're wondering why some of the models are made by "Brinch", it is because I changed username :P.
+Welcome to BMBF models! Here's all my models (mods that changes the visuals in Beat Saber) I've made for Beat Saber for the Oculus Quest. To get it into Beat Saber, simply download a .zip file and upload it to BMBF on your PC. You can also find this repository inside your headset through BMBF and press "Download". Everything is updated to Beat Saber v1.6.0. If you're on 1.6.1 or higher, go to the folder "[Mods for v. 1.6.1+ users!]".
 
 ## Commissions:
 Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, and tell me what you want: -Mathias-#1410.
 
 ![Commissions](https://user-images.githubusercontent.com/59196987/73605457-caee8500-459e-11ea-99ae-73a10128af92.png)
-
 
 ### Have you modeled a saber yourself that you want to be in Beat Saber?
 I can send your 3D modeled saber into Beat Saber for $3. There's just some requirements:
