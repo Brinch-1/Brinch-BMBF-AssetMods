@@ -1,5 +1,5 @@
 # BMBF Asset mods
-Welcome to BMBF asset mods! Here's all my asset mods (mods that changes sabers, menu music, menu title and a lot more) I've made for Beat Saber for the Oculus Quest. To get it into Beat Saber, simply download a .zip file and upload it to BMBF on your PC. You can also find this repository inside your headset through BMBF and press "Download". Everything is updated to Beat Saber v1.7.0. If you're on 1.6.1 to 1.6.3, go to the folder "[Mods for v. 1.6.1+ users!]".
+Welcome to BMBF asset mods! Here's all my asset mods (mods that changes sabers, menu music, menu titles and a lot more) I've made for Beat Saber for the Oculus Quest. To get it into Beat Saber, simply download a .zip file and upload it to BMBF on your PC. You can also find this repository inside your headset through BMBF and press "Download". Everything is updated to Beat Saber v1.7.0. If you're on 1.6.1 to 1.6.3, go to the folder "[Mods for v. 1.6.1+ users!]".
 
 ## Commissions:
 Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, and tell me what you want: -Mathias-#1410.
