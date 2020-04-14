@@ -4,7 +4,7 @@
 ## Commissions:
 Do you want your own custom Beat Saber model for Quest? Just DM me on Discord, and tell me what you want: Brinch#1410.
 
-![Commissions](https://https://cdn.discordapp.com/attachments/674178601155035136/689193573958156369/Commissions.gif)
+![Commissions](https://cdn.discordapp.com/attachments/674178601155035136/689193573958156369/Commissions.gif)
 
 ### Have you modeled a saber yourself that you want to be in Beat Saber?
 I can send your 3D modeled saber into Beat Saber for $3. There's just some requirements:
